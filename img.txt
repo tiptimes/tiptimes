@@ -1,0 +1,5 @@
+    //    DemoApplication imageCache = DemoApplication.getInstance();
+    //    DownPic down =new DownPic(imageCache);
+    //    ImageView o=(ImageView)findViewById(R.id.imageView3);
+     //   o.setImageBitmap(down.loadBitmap(aa));
+12345
